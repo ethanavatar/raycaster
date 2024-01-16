@@ -18,5 +18,5 @@ zig build -Dtarget=x86_64-windows-msvc -Doptimize=ReleaseSafe run --
 
 I made this on Windows, so if you want to build for Linux, changes will have to be made to the `build.zig` file.
 
-![Screenshot](screenshot.png)
+![Screenshot](./images/screenshot.png)
 
